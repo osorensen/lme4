@@ -803,7 +803,7 @@ In describing an algorithm for linear mixed models we called
 $\tilde{\bm\beta}(\bm\theta)$ the \emph{conditional estimate}.  That
 name reflects that fact that this is the maximum likelihood estimate
 of $\bm\beta$ for that particular value of $\bm\theta$.  Once we have
-determined the MLE, $\widehat(\bm\theta)_L$ of $\bm\theta$, we have a
+determined the MLE, $(\widehat\bm\theta)_L$ of $\bm\theta$, we have a
 ``plug-in'' estimator,
 $\widehat{\bm\beta}_L=\tilde{\bm\beta}(\bm\theta)$ for $\bm\beta$.
 
